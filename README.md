@@ -4,23 +4,23 @@
 
 ```bash
 * Sony Xperia Z3 - leo - D6603
-* 23.4.A.1.264
+* 23.5.A.0.575
 ```
 ```bash
 * Sony Xperia Z3 Compact - aries - D5803
-* 23.4.A.1.264
+* 23.5.A.0.575
 ```
 ```bash
 * Sony Xperia Z2 - siris - D6503
-* 23.4.A.1.264
+* 23.5.A.0.575
 ```
 ```bash
 * Sony Xperia Z3 Tablet Compact - scorpion - SGP621
-* 23.4.A.1.264
+* 23.5.A.0.575
 ```
 ```bash
 * Sony Xperia Z2 Tablet - castor - SGP521
-* 23.4.A.1.264
+* 23.5.A.0.575
 ```
 
 ### Rhine ###
