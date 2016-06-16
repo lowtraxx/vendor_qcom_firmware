@@ -1,22 +1,55 @@
-# Proprietary blobs for Sony
+# Modem blobs for AOSP
 
-### Modem Blobs
-### Shinano (msm8974ac)
-* leo      - 23.4.A.1.264 (D6603)
-* aries    - 23.4.A.1.264 (D5803)
-* scorpion - 23.4.A.1.264 (SGP621)
+### Shinano ###
 
-### Shinano (msm8974ab)
-* sirius   - 23.4.A.1.264 (D6503)
-* castor   - 23.4.A.1.264 (SGP521)
+```bash
+* Sony Xperia Z3 - leo - D6603
+* 23.4.A.1.264
+```
+```bash
+* Sony Xperia Z3 Compact - aries - D5803
+* 23.4.A.1.264
+```
+```bash
+* Sony Xperia Z2 - siris - D6503
+* 23.4.A.1.264
+```
+```bash
+* Sony Xperia Z3 Tablet Compact - scorpion - SGP621
+* 23.4.A.1.264
+```
+```bash
+* Sony Xperia Z2 Tablet - castor - SGP521
+* 23.4.A.1.264
+```
 
-### Rhine (msm8974aa)
-* honami   - 14.6.A.1.236 (C6903)
-* amami    - 14.6.A.1.236 (D5503)
-* togari   - 14.6.A.1.236 (C6833)
+### Rhine ###
 
-### Yukon (msm8226)
-* tianchi  - 19.1.A.0.473 (D5303)
-* seagull  - Has modem partition
-* eagle    - Has modem partition
-* flamingo - 18.4.C.2.12 (D2203)
+```bash
+* Sony Xperia Z1 - honami - C6903
+* 14.6.A.1.236
+```
+```bash
+* Sony Xperia Z1 Compact - amami - D5503
+* 14.6.A.1.236
+```
+```bash
+* Sony Xperia Z Ultra - togari - C6833
+* 14.6.A.1.236
+```
+
+### Yukon ####
+
+```bash
+* Sony Xperia T2 Ultra - tianchi - D5303
+* 19.4.A.0.182
+```
+```bash
+* Sony Xperia E3 - flamingo - D2203
+* 18.5.C.0.25
+```
+
+```bash
+* This repo contains only devices supported by Sony in AOSP Project .... if your device is not present
+* probably it has modem partition.... also this contains symlinks for Custom Roms....
+```
